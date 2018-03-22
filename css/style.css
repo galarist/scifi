@@ -48,7 +48,7 @@ a {
      color: #33d7dd;
      margin-right: 8px;
      border-radius: 18px;
-     border: 3px solid #33d7dd;
+     border: 2px solid #33d7dd;
      padding: 10px;
      -webkit-box-shadow: 0px 8px 9px 0px rgba(0,0,0,0.75);
      -moz-box-shadow: 0px 8px 9px 0px rgba(0,0,0,0.75);
@@ -85,7 +85,7 @@ b {
      display: inline-block;
      box-sizing: border-box;
      border: none;
-     border: 3px solid #33d7dd;
+     border: 2px solid #33d7dd;
      background-color: #242524;
      color: #33d7dd;
      -webkit-box-shadow: 0px 8px 9px 0px rgba(0,0,0,0.75);
