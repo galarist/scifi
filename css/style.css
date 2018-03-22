@@ -1,0 +1,128 @@
+body {
+     background-color: #242524;
+     margin: 0;
+}
+
+header {
+     height: 50px;
+     width: 100%;
+     margin:  auto;
+     font-size: 20pt;
+     color: #c2fdff;
+}
+
+header div {
+     margin-left: 10px;
+     padding-top: 12px !important;
+}
+
+hr {
+     border-color: #e1f8ff;
+     width: 98%;
+     border-radius: 5px;
+}
+
+nav {
+     margin: 0 auto;
+}
+
+ul {
+     margin-left: -25px;
+     margin-top: 30px;
+     
+}
+
+#header_link {
+     color: #33d7dd;
+     margin-right: 8px;
+     margin-left: -6px;
+     border-radius: 18px;
+     border: none !important;
+     padding: 10px;
+     -webkit-box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0) !important;
+     -moz-box-shadow: 0px 0px 0px 0px rgba(0,0,0, 0) !important;
+     box-shadow: 0px 0px 0px 0px rgba(0,0,0, 0) !important;     
+}
+
+a {     
+     color: #33d7dd;
+     margin-right: 8px;
+     border-radius: 18px;
+     border: 3px solid #33d7dd;
+     padding: 10px;
+     -webkit-box-shadow: 0px 8px 9px 0px rgba(0,0,0,0.75);
+     -moz-box-shadow: 0px 8px 9px 0px rgba(0,0,0,0.75);
+     box-shadow: 0px 8px 9px 0px rgba(0,0,0,0.75);
+}
+
+li {
+     display: inline-block;
+}
+
+b {
+     font-size: 13pt;
+     color: #e1f8ff;
+     margin-left: 15px;
+ }
+ 
+ h2 {
+     padding-top: 10px;
+     color: #34f0f7;
+ }
+ 
+ #container {
+     max-width: 300px;
+     margin: 0 auto;
+     margin-top: 50px;
+ }
+ 
+ 
+ /* Full-width inputs */
+ input[type=text], input[type=password] {
+     width: 100%;
+     padding: 12px 20px;
+     margin: 8px 0;
+     display: inline-block;
+     box-sizing: border-box;
+     border: none;
+     border: 3px solid #33d7dd;
+     background-color: #242524;
+     color: #33d7dd;
+     -webkit-box-shadow: 0px 8px 9px 0px rgba(0,0,0,0.75);
+     -moz-box-shadow: 0px 8px 9px 0px rgba(0,0,0,0.75);
+     box-shadow: 0px 8px 9px 0px rgba(0,0,0,0.75);
+     border-radius: 18px;
+ }
+ 
+ /* Set a style for all buttons */
+ button {
+     border: 3px solid #33d7dd;
+     background-color: #242524;
+     color: #33d7dd;
+     border-radius: 18px;
+     padding: 14px 20px;
+     margin: 8px 0;
+     cursor: pointer;
+     width: 100%;
+     font-size: 12pt;
+     -webkit-box-shadow: 0px 8px 9px 0px rgba(0,0,0,0.75);
+     -moz-box-shadow: 0px 8px 9px 0px rgba(0,0,0,0.75);
+     box-shadow: 0px 8px 9px 0px rgba(0,0,0,0.75);
+ }
+ 
+ /* Add a hover effect for buttons */
+ button:hover, a:hover {
+     opacity: 0.5;
+ }
+ 
+ /* Center the avatar image inside this container */
+ .imgcontainer, .home {
+     text-align: center;
+     max-width: 300px;
+     height: 50px;
+     margin: 0 auto;
+     opacity: 0.9;
+     border-top-right-radius: 5px;
+     border-top-left-radius: 5px;
+ }
+ 
